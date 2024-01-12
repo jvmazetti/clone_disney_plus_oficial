@@ -1,12 +1,8 @@
+@use 'reset';
 @use 'variaveis';
 @use 'hero';
+@use 'shows';
 
-
-* {
-    margin:0;
-    padding: 0;
-    box-sizing: border-box;
-}
 
 body{
     background-color: variaveis.$corDeFundo;
